@@ -4,7 +4,7 @@
 
 - My motivation for this study guide was to create an easily readable reference guide of the information I learned in the prework modules.
 - I built this project because I wanted to practice the skills I learned in the prework modules and to have an effective reference to look at as I go through the bootcamp.
-- This study guide solves the problem of having to meticulously go back through the prework modules to find relevent information that will help me throughout the bootcamp.
+- This study guide solves the problem of having to meticulously go back through the prework modules to find relevant information that will help me throughout the bootcamp.
 - By building this project, I learned the basics of HTML, CSS, and JavaScript. I also learned how to use GitBash, GitHub, and VSCode.
 
 ## Installation
